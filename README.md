@@ -1,5 +1,5 @@
 # stats220
-### William Zhao
+#### From William Zhao
 
 Here are some programmers that I think are really cool :)
 1. [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
